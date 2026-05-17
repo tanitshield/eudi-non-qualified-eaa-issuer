@@ -205,9 +205,9 @@ See `LICENSE` for details.
 
 ## Maintainer
 
-This project is maintained by TanitShield.
+This project is maintained by **TanitShield**.
 
-It is part of a broader effort to build open, privacy-preserving and EUDI-compatible trust infrastructure for cross-border credential verification.
+TanitShield develops open, privacy-preserving and EUDI-compatible trust infrastructure for cross-border credential issuance and verification, with an initial focus on non-EU institutions issuing non-qualified Electronic Attestations of Attributes.
 
 ---
 
