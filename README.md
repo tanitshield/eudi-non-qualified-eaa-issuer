@@ -132,7 +132,7 @@ New examples should follow the structure described in `CONTRIBUTING.md`.
 Planned structure:
 
 ```text
-.
+eudi-non-qualified-eaa-issuer
 ├── README.md
 ├── LICENSE
 ├── CONTRIBUTING.md
